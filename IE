@@ -18,5 +18,42 @@ https://d33zah5htxvoxb.cloudfront.net/el/live/seanad/hls.m3u8
 #EXTINF:-1 group-title="",espejo
 https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
 
+#EXTINF:-1 group-title="",AFV Family
+https://futuretoday-afv-family-2-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 group-title="",Bloomberg TV US
+https://bloomberg-bloomberg-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 group-title="",Duck TV
+https://mmm-ducktv-4-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 group-title="",Euronews English
+https://rakuten-euronews-1-ie.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 group-title="",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
+#EXTINF:-1 group-title="",The Guardian
+https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 group-title="",espejo
+https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
+
 #EXTINF:-1 group-title="",espejo
 https://d33zah5htxvoxb.cloudfront.net/el/live/cr3/hls.m3u8
