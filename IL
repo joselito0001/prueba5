@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Hala TV [Not 24/7]
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Hidabroot
+https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",I24 News Arabic
+https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Israel Pars TV
+https://live.pars-israel.com/iptv/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Kabbalah for the People[Not 24/7]
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",KAN 11 Israel
+https://kan11.media.kan.org.il/hls/live/2024514/2024514/master.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Kan Kids
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",ch 21
+https://shoppingil-rewriter.vidnt.com/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Musayof (Israel) [Not 24/7]
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",Reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
