@@ -108,9 +108,6 @@ https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="",espejo
 http://rtmp1.abnsat.com/hls/arabic.m3u8
 
-#EXTINF:-1 group-title="",espejo
-http://rtmp1.abnsat.com/hls/arabic.m3u8
-
 #EXTINF:-1 group-title="",KurdSat News  [Not 24/7]
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 
