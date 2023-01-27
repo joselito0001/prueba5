@@ -3,110 +3,224 @@
 #EXTINF:-1 group-title="",Al Alam [Not 24/7]
 https://live2.alalam.ir/alalam.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Asil TV
+https://live.asil.tv/live/asil.m3u8
+
+#EXTINF:-1 group-title="",espejo
 https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",AVA Series
 http://51.210.199.4/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1group-title="" ,FARS
 http://cdn1.live.irib.ir:1935/epg-live/smil:fars/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1group-title="" ,GOLESTAN
 http://cdn1.live.irib.ir:1935/epg-live/smil:golestan/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",HispanTV
 https://live1.presstv.ir/live/hispan.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Icnet TV [Not 24/7]
 http://51.210.199.7/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Iran Beauty [Not 24/7]
 http://51.210.199.57/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",JAHANBIN 
 http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Marjaeyat [Not 24/7]
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Mohabat TV 
 http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Mohabat TV
 https://5acf9f9415a10.streamlock.net/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",NAVAHANG
 http://51.210.227.130/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Omide Iran [Not 24/7]
 http://51.210.199.38/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Payam Javan TV [Not 24/7]
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Payvand TV  [Not 24/7]
 https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",PBC Tapesh TV [Not 24/7]
 http://iptv.tapesh.tv/tapesh/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Persian Film  [Not 24/7]
 http://51.210.227.135/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",PMC Royale [Not 24/7]
 http://51.210.199.29/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Press TV 
 https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Press TV French  [Not 24/7]
 https://live1.presstv.ir/live/presstvfr/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",QAZVIN
 http://cdn1.live.irib.ir:1935/epg-live/smil:qazvin/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",SAHAND
 http://cdn1.live.irib.ir:1935/epg-live/smil:sahand/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Sepanj TV [Not 24/7]
 http://51.210.199.30/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1group-title="" ,SL 1 
 http://51.210.199.3/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",SL 2 
 http://51.210.199.2/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Tin TV [Not 24/7]
 https://bozztv.com/1gbw5/tintv/tintv/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Varzesh
 http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",VARZESH 
 http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",VOX1 [Not 24/7]
 http://51.210.199.8/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",YourTime TV [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Diyar TV [Not 24/7]
 http://51.210.199.28/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="",Ecran TV  [Not 24/7]
 http://51.210.199.40/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="" ,Hasti TV [Not 24/7]
 https://live.hastitv.com/hls/livetv.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
 
 #EXTINF:-1 group-title="" ,HodHod TV 
 http://51.210.199.12/hls/stream.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Sahar
 http://cdnlive.irib.ir/live-channels/smil:sahar3/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
 #EXTINF:-1 group-title="",Toonix [Not 24/7]
 http://51.210.227.134/hls/stream.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://live.asil.tv/live/asil.m3u8
