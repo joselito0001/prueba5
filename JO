@@ -114,14 +114,23 @@ http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
 #EXTINF:-1 group-title="",espejo
 http://82.212.74.2:8000/live/7307.m3u8
 
-#EXTINF:-1 group-title="",espejo
-http://82.212.74.2:8000/live/7307.m3u8
-
 #EXTINF:-1 group-title="",Rotana Tarab Jordan: Control Studio [Not 24/7]
 http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://82.212.74.2:8000/live/7307.m3u8
 
 #EXTINF:-1 group-title="",Roya TV [Not 24/7]
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://82.212.74.2:8000/live/7307.m3u8
+
 #EXTINF:-1 group-title="",Roya TV [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://82.212.74.2:8000/live/7307.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://82.212.74.2:8000/live/7307.m3u8
