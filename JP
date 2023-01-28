@@ -90,7 +90,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 #EXTINF:-1 group-title="",espejo
 https://sub.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 tvg-id="NHKBS1.jp" status="timeout",NHK BS1 (480p)
+#EXTINF:-1 group-title="",NHK BS1
 http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
 
 #EXTINF:-1 group-title="",espejo
