@@ -1,0 +1,91 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="",Animax
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
+#EXTINF:-1 group-title="",AT-X
+https://sub.neetball.net/live/neet.m3u8
+
+#EXTINF:-1 group-title="",BS 12
+http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+
+#EXTINF:-1 group-title="",BS Asahi
+http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+
+#EXTINF:-1 group-title="",BS Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+
+#EXTINF:-1 group-title="",BS Nippon TV
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+
+#EXTINF:-1 group-title="",BS TBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+
+#EXTINF:-1 group-title="",BS TV Tokyo [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+
+#EXTINF:-1 group-title="",Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+
+#EXTINF:-1 group-title="" ,Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
+#EXTINF:-1 group-title="",TBS [Not 24/7]
+https://tbs2.mov3.co/hls/tbs.m3u8
+
+#EXTINF:-1 group-title="",TV Tokyo (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+
+#EXTINF:-1 group-title="",J Sports 1 [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+
+#EXTINF:-1 tvg-id="JSports2.jp" status="timeout",J Sports 2 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+
+#EXTINF:-1 tvg-id="JSports3.jp" status="timeout",J Sports 3 (480p) [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
+#EXTINF:-1 tvg-id="NHKBS1.jp" status="timeout",NHK BS1 (480p)
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+
+#EXTINF:-1 group-title="",NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+
+#EXTINF:-1 group-title="",NHK E [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+
+#EXTINF:-1 group-title="",NHK G [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+
+#EXTINF:-1 group-title="",NHK World Japan
+https://hls.youtb.workers.dev/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8
+
+#EXTINF:-1 group-title="",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+
+#EXTINF:-1 group-title="",Nippon TV [Not 24/7]
+https://ntv3.mov3.co/hls/ntv.m3u8
+
+#EXTINF:-1 group-title="",Nippon TV [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+
+#EXTINF:-1 group-title="",NTV News24
+https://hls.youtb.workers.dev/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8
+
+#EXTINF:-1 group-title="",Shop Channel [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 group-title="",Star 1 [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+
+#EXTINF:-1 group-title="",Star 2 [Not 24/7]
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+
+#EXTINF:-1 group-title="",TBS News
+https://hls.youtb.workers.dev/channel/UC6AG81pAkf6Lbi_1VC5NmPA.m3u8
+
+#EXTINF:-1 group-title="",TV Asahi (480p)
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+#EXTINF:-1 group-title="",Weathernews (720p)
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
