@@ -84,7 +84,7 @@ http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
 #EXTINF:-1 group-title="",espejo
 https://sub.neetball.net/live/neet.m3u8
 
-#EXTINF:-1 tvg-id="JSports3.jp" status="timeout",J Sports 3 (480p) [Not 24/7]
+#EXTINF:-1 group-title="",J Sports 3 [Not 24/7]
 http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
 
 #EXTINF:-1 group-title="",espejo
