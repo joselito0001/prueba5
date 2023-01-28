@@ -3,11 +3,26 @@
 #EXTINF:-1 group-title="",Inooro Tv 
 https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+
 #EXTINF:-1 group-title="",KTN News [Not 24/7]
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+
+#EXTINF:-1 group-title="",espejo
 https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
 
 #EXTINF:-1 group-titled="",NTV [Not 24/7]
 https://hls.youtb.workers.dev/channel/UCqBJ47FjJcl61fmSbcadAVg.m3u8
 
+#EXTINF:-1 group-title="",espejo
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+
 #EXTINF:-1 group-title="",TV47 [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tv47kenya/
+
+#EXTINF:-1 group-title="",espejo
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://hls.youtb.workers.dev/channel/UCKVsdeoHExltrWMuK0hOWmg.m3u8
