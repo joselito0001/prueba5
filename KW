@@ -23,3 +23,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV
 
 #EXTINF:-1 group-title="",espejo
 https://kali.vdopanel.com:3986/live/mbashalive.m3u8
+
+#EXTINF:-1 group-title="",espejo
+https://kali.vdopanel.com:3986/live/mbashalive.m3u8
