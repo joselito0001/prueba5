@@ -3,193 +3,394 @@
 #EXTINF:-1 group-title="",Arirang
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",BBS Buddhist Broadcasting
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",BTN TV
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
 http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",MBC Busan [Not 24/7]
 http://stream.bsmbc.com/livetv/BusanMBC_TV_onairstream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",CBS
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",MBC Chuncheon [Not 24/7]
 https://stream.chmbc.co.kr/TV/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",SBS CJB [Not 24/7]
 http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",CJ OnStyle
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",CJ OnStyle Plus
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",CTS
 https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",MBC Daejeon[Not 24/7]
 https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",EBS 1
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",EBS 2
 http://ebsonair.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",EBS e
 http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",EBS kids
 http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",EBS+ 1
 http://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",EBS+ 2
 http://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",GCN24 Korean [Not 24/7]
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Gongyoung Shopping
 https://etv.publichs.com/live5.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",GS Shop
 https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",GugakTV
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Gugbang TV [Not 24/7]
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",Home & Shopping
 https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Hyundai Home Shopping
 https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",Hyundai Home Shopping Plus
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",SBS JIBS [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",SBS JTV [Not 24/7]
 https://61ff3340258d2.streamlock.net/jtv_live/myStream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",SBS KBC [Not 24/7]
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KBS1
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KBS2 [Not 24/7]
 http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KBS Drama
 http://ye23.vip/z7z8/2021/kbs2020.php?id=5
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KBS Joy
 http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KBS Kids
 http://ye23.vip/z7z8/2021/kbs2020.php?id=9
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KBS Life
 http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KBS LiveCam DokDo
 http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KBS News D
 http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KBS Story
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",KCTV CH05[Not 24/7]
 http://119.77.96.184:1935/chn05/chn05/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",KShopping
 https://fhs8036.bd-61.ktcdn.co.kr/klive/smil:klive.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",Lotte Home Shopping
 https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",MBC [Not 24/7]
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",MBC Mokpo [Not 24/7]
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",MTN
 http://183.110.27.87/mtnlive/720/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",National Assembly TV 
 https://m.webcast.go.kr/live/_definst_/smil:natv_240p.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",NHTV
 http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Shinsegae Shopping TV
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",Shopping NT
 https://live.shoppingntmall.com/live/10011.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",TBS Seoul
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",SBS TJB [Not 24/7]
 http://1.245.74.5:1935/live/tv/.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",TV Chosun 2
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",TV Chosun
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",SBS UBC [Not 24/7]
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",MBC Ulsan [Not 24/7]
 https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",WBC TV 
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",MBC Yeosu [Not 24/7]
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Arirang Radio
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 #EXTINF:-1 group-title="",GoodTV
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",JCN TV
 https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
 #EXTINF:-1 group-title="",Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 
