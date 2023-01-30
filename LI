@@ -3,5 +3,16 @@
 #EXTINF:-1 group-title="",Kommu TV [Not 24/7]
 http://31.10.19.12:8066/live/999/0.m3u8
 
+#EXTINF:-1 group-title="",espejo
+http://31.10.19.12:8066/live/999/0.m3u8
+
 #EXTINF:-1 group-title="",Mediashop TV
 https://mediashop.akamaized.net/hls/live/2032402/Meine_Einkaufswelt/1.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://31.10.19.12:8066/live/999/0.m3u8
+
+#EXTINF:-1 group-title="",espejo
+http://31.10.19.12:8066/live/999/0.m3u8
+
+
